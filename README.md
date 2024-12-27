@@ -1,4 +1,4 @@
-
+# Author : Lakshya Marodia (13_Sep_24)
 # 7up_7down or 7
 
 This is a simple dice betting game called **7up_7down or 7**, where players place bets on the sum of two dice. Players can choose to bet whether the sum will be above, below, or exactly equal to 7. The game starts with a set amount of money, and the player wins or loses based on the outcome of each roll.
